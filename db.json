@@ -1,27 +1,38 @@
-[
+ [
     {
-      "id": 1,
-      "title": "Locked",
-      "author": "typicode",
+      "lockStatusArr": [
+        "Unlocking",
+        "Unlocked",
+        "Locked"
+      ],
       "door": "Front door",
       "leftImageOfButton": "https://probaapi.github.io/jsonapi/group1.png",
       "rightImageOfButton": "https://probaapi.github.io/jsonapi/group21.png",
-      "placeOfButton": "Home"
+      "placeOfButton": "Home",
+      "id": 1
     },
     {
+      "lockStatusArr": [
+        "Unlocking",
+        "Unlocked",
+        "Locked"
+      ],
       "door": "Front door",
-      "title": "Locked",
       "leftImageOfButton": "https://probaapi.github.io/jsonapi/group2.png",
       "rightImageOfButton": "https://probaapi.github.io/jsonapi/group22.png",
       "placeOfButton": "Office",
       "id": 2
     },
     {
+      "lockStatusArr": [
+        "Unlocking",
+        "Unlocked",
+        "Locked"
+      ],
       "door": "Front door",
-      "title": "Locked",
       "leftImageOfButton": "https://probaapi.github.io/jsonapi/group3.png",
       "rightImageOfButton": "https://probaapi.github.io/jsonapi/group23.png",
       "placeOfButton": "Home",
       "id": 3
     }
-]
+ ]
